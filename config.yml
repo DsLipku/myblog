@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 baseURL: http://example.org/
 languageCode: en-us
 title: My New Hugo Site
 theme: "PaperMod"
+=======
+https://DsLipku.github.io/myblog
+languageCode: en-us
+title: My New Hugo Site
+theme: "PaperMod"
+>>>>>>> master
